@@ -14,6 +14,9 @@ h3{
     margin-top: 20px;
     margin-bottom: 75px;
 }
+
+/* form customization */
+
 .main{
     width: 100%;
     height: 100%;
@@ -42,6 +45,9 @@ hr{
     margin-top: 75px; 
     margin-bottom: 75px;
 }
+
+/* checkbox section customization */
+
 .checkbox {
     display: block;
     position: relative;
@@ -68,6 +74,8 @@ hr{
   a{
     color: white;
   }
+  /* section 3 bottom */
+  
   select{
     width: 51.3%;
     height: 25px;
